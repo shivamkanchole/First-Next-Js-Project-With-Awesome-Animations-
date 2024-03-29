@@ -1,5 +1,5 @@
+'use client'
 import HeroSection from "@/Components/HeroSection";
-import Image from "next/image";
 import FearuredCourses from "@/Components/FearuredCourses";
 import ScrollColorChange from "@/Components/ScrollColorChange";
 import TestimonialCards from "@/Components/TestimonialCards";
